@@ -2,6 +2,7 @@
 
 # Tadesse Akele - Personal Portfolio
 
+## [Live Website](https://tadesse.vercel.app)
 
 ## Tech Used
 - **Framwork**: [React JS](https://reactjs.org/)
